@@ -1,0 +1,13 @@
+{
+  "name": "Survivors: Endless Apocalypse",
+  "short_name": "Survivors",
+  "description": "Sobreviva a hordas em um roguelite de ação.",
+  "lang": "pt-BR",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#10131d",
+  "theme_color": "#10131d",
+  "icons": []
+}
